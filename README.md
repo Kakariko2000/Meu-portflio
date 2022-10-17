@@ -3,7 +3,7 @@
 
 ![preview](./.github/25.png)
 
-
+[🔗​clique aqui para acessar](https://kakariko2000.github.io/Meu-portflio/)
 
 ## 👨‍💻 O projeto teve como base criar um mini portifólio, onde foram utilizados as seguintes linguagens.
 
