@@ -1,8 +1,7 @@
 # Descrições do Projeto
  
+
 ![preview](./.github/25.png)
-
-
 
 
 
